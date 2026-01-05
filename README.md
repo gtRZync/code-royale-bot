@@ -75,7 +75,6 @@ git clone https://github.com/gtRZync/code-royale-bot.git
 | Gold | 80%+ | Adaptive strategy |
 | Legend | 75%+ | Full meta-game awareness |
 
-**Peak Rank:** Top 100 Legend (out of 10,000+ players)
 
 ## 🧠 How It Works (High-Level)
 
