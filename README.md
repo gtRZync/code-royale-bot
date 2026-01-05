@@ -111,6 +111,11 @@ const rules = [
 - Thanks to the Code Royale community for the competition
 - Special shoutout to anyone who loses to this bot and then studies the replay
 
+## Demo in Legend League
+
+![Demo](demo_in_legend.gif)
+> Even the Legend League's AI don't stand a chance (i mean he didn't even deal a single damage)
+
 ---
 
 **Ready to dominate?** Copy the code, hit "Play", and watch as you climb from Wood to Legend while barely understanding how the bot works. It's that good.
