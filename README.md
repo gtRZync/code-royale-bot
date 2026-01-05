@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-    Code Royale Bot: From Wood to Legend 
+    Code Royale Bot: From Bronze to Legend 
 </h1>
 </div>
 
@@ -69,7 +69,6 @@ git clone https://github.com/gtRZync/code-royale-bot.git
 
 | League | Win Rate | Key Strength |
 |--------|----------|--------------|
-| Wood | 95%+ | Basic expansion logic |
 | Bronze | 90%+ | Economic tracking |
 | Silver | 85%+ | Knight prediction |
 | Gold | 80%+ | Adaptive strategy |
@@ -117,6 +116,6 @@ const rules = [
 
 ---
 
-**Ready to dominate?** Copy the code, hit "Play", and watch as you climb from Wood to Legend while barely understanding how the bot works. It's that good.
+**Ready to dominate?** Copy the code, hit "Play", and watch as you climb from Bronze to Legend while barely understanding how the bot works. It's that good.
 
 <p align="center"><a href="https://github.com/gtRZync/code-royale-bot/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=1e1e2e&colorB=89b4fa"/></a></p>
